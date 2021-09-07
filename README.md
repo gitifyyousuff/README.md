@@ -2,17 +2,12 @@
 ## Hey, I am Yousuff!
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
-- 🎓 I've completed my **Bachelors of Engineering in IT** from **University of Mumbai**.
-- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
-- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
-- 📌 Scroll down to see my **Pinned Repositories**.
+- 🎓 I am working as ML Engineer and having overall 6 years of IT Experience.
+- 🤝🏻 Good in Debugging, Statistics,Python Automation and Model building.
 ```python
-def anuj():
-  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
-  cloud_architecture = ['heroku', 'aws sagemaker']
-  kaggle_competitions = 3
-  active_blogger = True
+def yousuff():
+  skills_with_proficiency = {'Python': 'Advance', 'DB': 'Intermidiate', 'ML': 'Advance', 'HTML & CSS': 'Intermideate','java':'Intermidiate'}
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask']
   return ∞
 ```
 ## Connect me on:
